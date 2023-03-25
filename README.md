@@ -1,6 +1,7 @@
 # instagram-comment-scraper
 Attempting to obtain comments from an instagram post and visualizing the data.
 
+edit: 24/3/2023 - I've not implemented the bot checking on the users who have commented but might do it next time. It'll probably be something simple like filtering users as valid or not based on their number of followers/following. Would be great if I had access to their account creation date.
 
 more details are in the [python notebook]([url](https://github.com/samuelrawrs/instagram-comment-scraper/blob/main/instagram-comment-scraper.ipynb)) but here's a sneak peek:
 
